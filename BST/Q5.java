@@ -1,0 +1,12 @@
+package BST;
+
+public class Q5 {
+    public static void main(String[] args) {
+        //Populate inorder successor of all nodes
+
+
+
+
+
+    }
+}
