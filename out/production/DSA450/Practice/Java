@@ -1,0 +1,52 @@
+int --- data type
+byte --- data type
+short --- data type
+float --- data type
+double --- data type
+boolean -- data type
+char --- data type
+long --- data type
+if --- conditional
+else --- conditional
+continue --- loop m kuch skip karna ho toh
+for --- loop
+while --- loop
+do --- loop
+break --- loop break karne k liye
+super --- inheritence m constructor k andar agar super laga diya toh parent wala variable/funtion call hoga
+return --- to close the function
+class --- to initiate a class OOPS
+public --- access modifier (public means can be access from anywhere)
+static ---
+void --- before function if don't want to return anything from it
+private --- access modifier (private means can not be access from anywhere)
+protected --- access modifier (can only be accessed with in the package)
+default --- access modifier
+try --- exceptional handling
+catch --- exceptional handling
+case --- conditional
+switch --- conditional
+throw --- exceptional handling
+throws
+new
+import
+package
+interface
+abstract
+final
+this
+finally
+extends
+implements
+instance of
+native
+synchronized
+transient
+volatile
+
+
+//These are not java keywords
+string
+main
+true
+false
