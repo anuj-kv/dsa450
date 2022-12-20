@@ -1,8 +1,5 @@
 package Practice;
 
-import java.util.Collections;
-import java.util.LinkedList;
-
 public class LL {
     public static void main(String[] args) {
         //Reverse the Linked List
@@ -20,9 +17,9 @@ public class LL {
         System.out.println();
         System.out.println(ll);*/
 
-        Node n1 = new Node(2);
-        n1.next = new Node(3);
-        n1.next.next = new Node(4);
+        Node1 n1 = new Node1(2);
+        n1.next = new Node1(3);
+        n1.next.next = new Node1(4);
         n1.next.next.next = null;
 
 
@@ -34,10 +31,10 @@ public class LL {
 class Linked {
 
 }
-class Node {
-    Node next;
+class Node1 {
+    Node1 next;
     int data;
-    public Node(int data){
+    public Node1(int data){
         this.data=data;
     }
 }
